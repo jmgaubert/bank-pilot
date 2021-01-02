@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank-pilot.iml" filepath="$PROJECT_DIR$/bank-pilot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-pilot-application/bank-pilot-application.iml" filepath="$PROJECT_DIR$/bank-pilot-application/bank-pilot-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-pilot-domain/bank-pilot-domain.iml" filepath="$PROJECT_DIR$/bank-pilot-domain/bank-pilot-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-pilot-exposition/bank-pilot-exposition.iml" filepath="$PROJECT_DIR$/bank-pilot-exposition/bank-pilot-exposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-pilot-infrastructure/bank-pilot-infrastructure.iml" filepath="$PROJECT_DIR$/bank-pilot-infrastructure/bank-pilot-infrastructure.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/bank-pilot-application/target/
+/bank-pilot-domain/target/
+/bank-pilot-exposition/target/
+/bank-pilot-infrastructure/target/
